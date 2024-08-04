@@ -63,8 +63,7 @@ Este proyecto es una aplicación para gestionar el registro de mascotas disponib
   - Las imágenes subidas no se almacenan con el nombre `mascota{id}.jpg` como se había previsto. Actualmente, se utiliza una imagen por defecto para todas las mascotas nuevas sin una imagen específica. Si el usuario intenta subir una imagen, el programa deja de funcionar.
 
 - **Opción de Ver Propietarios**:
-  - La opción de ver propietarios actualmente no funciona como se esperaba. Aunque se ha implementado con los métodos adecuados en el controlador y los archivos `.html`, no se listan todos los propietarios con su nombre, email y mascotas asignadas (nombre y foto). Además, la idea era que al hacer clic en el nombre de una mascota, se mostrase toda la información de la mascota. 
-
--**Opción de update**:
+  - La opción de ver propietarios actualmente no funciona como se esperaba. Aunque se ha implementado con los métodos adecuados en el controlador y los archivos `.html`, no se listan todos los propietarios con su nombre, email y mascotas asignadas (nombre y foto). Además, la idea era que al hacer clic en el nombre de una mascota, se mostrase toda la información de la mascota.
+- **Opción de update**:
   - Faltaria acabar de implementar el update de mascota para poder modificar datos o añadir propietario.
   - Habría que implementar el update de propietario para poder modificar datos y añadir mascotas.
