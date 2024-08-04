@@ -1,7 +1,7 @@
 # Proyecto de Registro de Mascotas para Adopción
 
 ## Descripción
-Este proyecto es una aplicación para gestionar el registro de mascotas disponibles para adopción. Permite agregar, listar, actualizar y eliminar mascotas y propietarios, así como visualizar detalles y asociar mascotas a propietarios. También incluye una API REST para la interacción programática y la documentación de la API con Swagger.
+Este proyecto es una aplicación para gestionar el registro de mascotas disponibles para adopción. Permite agregar y listar mascotas y propietarios, eliminar masctoas, así como visualizar detalles y asociar mascotas a propietarios. También incluye una API REST para la interacción programática y la documentación de la API con Swagger.
 
 ## Funcionalidades
 
